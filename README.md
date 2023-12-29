@@ -17,9 +17,7 @@ This project performs text analysis on a given book chapter/book, providing vari
 ```bash
 git clone https://github.com/cristinamatacuta/ManualTextProcessing
 
-2.Install the required Python packages by running:
-```bash
-pip install -r requirements.txt
+
 ```
 ## Usage
 ```bash
