@@ -17,11 +17,10 @@ This project performs text analysis on a given book chapter/book, providing vari
 ```bash
 git clone https://github.com/cristinamatacuta/ManualTextProcessing
 
-
 ```
 ## Usage
 ```bash
-python script.py input_file_path
+python processing.py input_file_path
 ```
 Replace input_file_path with the path to the text file you want to analyze.
 
